@@ -8,6 +8,14 @@ excerpt: 最近安装python-docx遇到问题，记录下来吧。
 mathjax: true
 ---
 
+* content
+{:toc}
+
+一直以来都想搭建一个自己的博客，在网上上看到一些相关的内容，于是选择了在github上用jekyll搭建博客。
+
+
+
+
 # 离线（单机）安装python-docx(Windows系统)
 
 
